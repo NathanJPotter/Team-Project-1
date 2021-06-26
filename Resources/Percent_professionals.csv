@@ -1,23 +1,45 @@
-Region,2011,2016
-Australia,21.3,22.2
-  New South Wales,22.7,23.6
-    Greater Sydney,25.5,26.3
-    Rest of NSW,17.4,18.1
-  Victoria,22.3,23.3
-    Greater Melbourne,24.1,25
-    Rest of Vic.,16.7,17.4
-  Queensland,18.9,19.8
-    Greater Brisbane,22.2,22.9
-    Rest of Qld,15.6,16.7
-  South Australia,19.6,20.3
-    Greater Adelaide,21.6,22.3
-    Rest of SA,12.6,12.7
-  Western Australia,19.9,20.5
-    Greater Perth,21.7,22.2
-    Rest of WA,13.3,13.8
-  Tasmania,18.5,18.8
-    Greater Hobart,22.4,22.6
-    Rest of Tas.,15.3,15.6
-  Northern Territory,19.9,20.1
-    Greater Darwin,19.5,19.3
-    Rest of NT,20.7,22
+Year,Region,Professionals (% of residents)
+2011,Australia,21.3
+2011,New South Wales,22.7
+2011,Greater Sydney,25.5
+2011,Rest of NSW,17.4
+2011,Victoria,22.3
+2011,Greater Melbourne,24.1
+2011,Rest of Vic.,16.7
+2011,Queensland,18.9
+2011,Greater Brisbane,22.2
+2011,Rest of Qld,15.6
+2011,South Australia,19.6
+2011,Greater Adelaide,21.6
+2011,Rest of SA,12.6
+2011,Western Australia,19.9
+2011,Greater Perth,21.7
+2011,Rest of WA,13.3
+2011,Tasmania,18.5
+2011,Greater Hobart,22.4
+2011,Rest of Tas.,15.3
+2011,Northern Territory,19.9
+2011,Greater Darwin,19.5
+2011,Rest of NT,20.7
+2016,Australia,22.2
+2016,New South Wales,23.6
+2016,Greater Sydney,26.3
+2016,Rest of NSW,18.1
+2016,Victoria,23.3
+2016,Greater Melbourne,25
+2016,Rest of Vic.,17.4
+2016,Queensland,19.8
+2016,Greater Brisbane,22.9
+2016,Rest of Qld,16.7
+2016,South Australia,20.3
+2016,Greater Adelaide,22.3
+2016,Rest of SA,12.7
+2016,Western Australia,20.5
+2016,Greater Perth,22.2
+2016,Rest of WA,13.8
+2016,Tasmania,18.8
+2016,Greater Hobart,22.6
+2016,Rest of Tas.,15.6
+2016,Northern Territory,20.1
+2016,Greater Darwin,19.3
+2016,Rest of NT,22
