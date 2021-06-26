@@ -1,23 +1,45 @@
-Region,2011,2016
-Australia,10.4,11.5
-  New South Wales,11.6,12.9
-    Greater Sydney,12.6,14.2
-    Rest of NSW,10,10.8
-  Victoria,9.1,10.4
-    Greater Melbourne,9.7,11
-    Rest of Vic.,7.7,8.6
-  Queensland,11.9,12.8
-    Greater Brisbane,11.7,12.9
-    Rest of Qld,12.1,12.7
-  South Australia,9.3,10.2
-    Greater Adelaide,9.9,10.9
-    Rest of SA,7.2,7.9
-  Western Australia,8.9,9.7
-    Greater Perth,9.2,9.9
-    Rest of WA,7.7,8.5
-  Tasmania,9.5,10.2
-    Greater Hobart,10.5,10.9
-    Rest of Tas.,8.7,9.6
-  Northern Territory,9,9.1
-    Greater Darwin,10.5,10
-    Rest of NT,6.2,7.2
+Year,Region,Rent stressed residents (%)
+2011,Australia,10.4
+2011,New South Wales,11.6
+2011,Greater Sydney,12.6
+2011,Rest of NSW,10
+2011,Victoria,9.1
+2011,Greater Melbourne,9.7
+2011,Rest of Vic.,7.7
+2011,Queensland,11.9
+2011,Greater Brisbane,11.7
+2011,Rest of Qld,12.1
+2011,South Australia,9.3
+2011,Greater Adelaide,9.9
+2011,Rest of SA,7.2
+2011,Western Australia,8.9
+2011,Greater Perth,9.2
+2011,Rest of WA,7.7
+2011,Tasmania,9.5
+2011,Greater Hobart,10.5
+2011,Rest of Tas.,8.7
+2011,Northern Territory,9
+2011,Greater Darwin,10.5
+2011,Rest of NT,6.2
+2016,Australia,11.5
+2016,New South Wales,12.9
+2016,Greater Sydney,14.2
+2016,Rest of NSW,10.8
+2016,Victoria,10.4
+2016,Greater Melbourne,11
+2016,Rest of Vic.,8.6
+2016,Queensland,12.8
+2016,Greater Brisbane,12.9
+2016,Rest of Qld,12.7
+2016,South Australia,10.2
+2016,Greater Adelaide,10.9
+2016,Rest of SA,7.9
+2016,Western Australia,9.7
+2016,Greater Perth,9.9
+2016,Rest of WA,8.5
+2016,Tasmania,10.2
+2016,Greater Hobart,10.9
+2016,Rest of Tas.,9.6
+2016,Northern Territory,9.1
+2016,Greater Darwin,10
+2016,Rest of NT,7.2
